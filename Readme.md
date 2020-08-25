@@ -1,4 +1,4 @@
-# Projet DevOps
+# Projet DevOps J
 
 ## Instructions
 Le TP doit être rendu individuellement et se basera sur le code présent dans vos repositories personnels:
