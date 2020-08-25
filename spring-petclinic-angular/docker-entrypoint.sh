@@ -4,7 +4,7 @@
 # * BACK_HOSTNAME: ip ou hostname 
 # * BACK_PORT: Port sur lequel est exposé le container
 
-set -euo pipefail
+#set -euo pipefail
 
 : ${BACK_HOSTNAME:=localhost}
 : ${BACK_PORT:=9966}
